@@ -1,16 +1,28 @@
-## Hi there 👋
+# Ayon Alfaz
 
-<!--
-**ayonalfaz/ayonalfaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- full-stack builder · ayonalfaz -->
 
-Here are some ideas to get you started:
+```
+stack   ASP.NET Core · React · TypeScript · SQL Server · Docker
+focus   system design · API architecture · delivery process
+status  e-invoicing platform @ national scale · Maldives
+base    Dhaka, Bangladesh
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+I build end-to-end systems — from data model to deployed UI.
+Currently shipping a national e-invoicing platform for MIRA
+under an ADB-funded programme. UBL 2.1 · multi-tenant · 6 months.
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayonalfaz&show_icons=true&hide_border=true&bg_color=fafaf9&title_color=0f0f0e&text_color=555555&icon_color=1a1a18&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ayonalfaz&hide_border=true&background=fafaf9&stroke=e8e8e4&ring=1a1a18&fire=1a1a18&currStreakLabel=0f0f0e&sideLabels=888888&dates=aaaaaa&currStreakNum=0f0f0e&sideNums=555555)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayonalfaz&layout=compact&hide_border=true&bg_color=fafaf9&title_color=0f0f0e&text_color=555555&langs_count=6)
+
+---
+
+[github.com/ayonalfaz](https://github.com/ayonalfaz)
